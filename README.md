@@ -1,3 +1,5 @@
-This is the first game I, Lukáš Píšek, have ever made and is also my maturita project.
+#Grapro
 
-It is developed in Unity and written in C#
+This game was made as a maturita project. 
+
+There are a lot of bugs so proceed with caution.
